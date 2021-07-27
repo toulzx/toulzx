@@ -35,12 +35,8 @@ Groovy         🕓 2m    ▏                         0.7%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
-
     </td>
     <td valign="top" width="50%">
-      
-  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact" />
-      
     </td>    
   </tr>
 </table>
