@@ -12,8 +12,6 @@
 </div>
 
 
-
-
 <!--
 [^_^]: # - :orange_book: Focusing on Vue & Android recently
 [^_^]: # - :hammer: Creator of applications and frameworks
@@ -21,9 +19,9 @@
 
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
-
+<tr>
+<td valign="top" width="50%">
+  
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/a1ece18ebb6a13ac8c2e0dc993e2caed" target="_blank">📊 Weekly development breakdown</a>
 ```text
@@ -35,15 +33,21 @@ Groovy         🕓 2m    ▏                         0.7%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
-      
-    </td>
-    <td valign="top" width="50%">
-    </td>    
-  </tr>
+ 
+</td>
+</tr>
 </table>
+
+
+<!--
+更新日志
+- 20210724 readme-stats 的实现
+- 20210726 waka-box-go 的实现
+-->
 
 <!--
 20210727 布局调整总结
-- 不可为 waka-box 套用 <div> 标签
-- 当模仿 waka-box-go 作者使用 <table> 时候不能 50% 显示
+- 不可为 waka-box 套用 <div> 标签，Markdown 格式语法不会在块级 HTML 标签内进行处理。
+- emmm其实也可以的（至少在GitHub），只要在块级标签内前后留有空行。
+- 特别注意：在 markdown 中使用标签不要有缩进，标签前有 markdown 语法的情况下进行缩进，默认是以 markdown 格式处理的。
 -->
