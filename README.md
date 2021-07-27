@@ -6,31 +6,27 @@
 
 
 <a href="https://github.com/toulzx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&include_all_commits=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact" />
 </a>
+
+<div width="50%">
+<!-- waka-box start -->
+<!-- waka-box end -->
+</div>
 
 <!--
 [^_^]: # - :orange_book: Focusing on Vue & Android recently
 [^_^]: # - :hammer: Creator of applications and frameworks
 -->
 
+<!--
 <table>
   <tr>
     <td valign="center" width="50%">
-       <!-- waka-box start -->
-#### <a href="https://gist.github.com/a1ece18ebb6a13ac8c2e0dc993e2caed" target="_blank">📊 Weekly development breakdown</a>
-```text
-Other          🕓 4h39m █████████████████████    87.7%
-Java           🕓 19m   █▍                        6.2%
-C++            🕓 8m    ▋                         2.7%
-XML            🕓 4m    ▎                         1.3%
-Groovy         🕓 2m    ▏                         0.7%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
     </td>
     <td valign="center" width="50%">
     </td>
   </tr>
 </table>
+-->
