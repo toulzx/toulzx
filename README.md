@@ -12,30 +12,27 @@
 </div>
 
 
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/a1ece18ebb6a13ac8c2e0dc993e2caed" target="_blank">📊 Weekly development breakdown</a>
-```text
-Other          🕓 4h39m █████████████████████    87.7%
-Java           🕓 19m   █▍                        6.2%
-C++            🕓 8m    ▋                         2.7%
-XML            🕓 4m    ▎                         1.3%
-Groovy         🕓 2m    ▏                         0.7%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+
 
 <!--
 [^_^]: # - :orange_book: Focusing on Vue & Android recently
 [^_^]: # - :hammer: Creator of applications and frameworks
 -->
 
-<!--
+
 <table>
   <tr>
-    <td valign="center" width="50%">
+    <td valign="top" width="50%">
+        <!-- waka-box start -->
+        <!-- waka-box end -->
     </td>
-    <td valign="center" width="50%">
+    <td valign="top" width="50%">
     </td>
   </tr>
 </table>
+
+<!--
+20210727 布局调整总结
+- 不可为 waka-box 套用 <div> 标签
+- 当模仿 waka-box-go 作者使用 <table> 时候不能 50% 显示
 -->
