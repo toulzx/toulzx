@@ -10,20 +10,10 @@
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact" />
 </a>
 </div>
-<div width="50%">
+
 <div>
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/a1ece18ebb6a13ac8c2e0dc993e2caed" target="_blank">📊 Weekly development breakdown</a>
-```text
-Other          🕓 4h39m █████████████████████    87.7%
-Java           🕓 19m   █▍                        6.2%
-C++            🕓 8m    ▋                         2.7%
-XML            🕓 4m    ▎                         1.3%
-Groovy         🕓 2m    ▏                         0.7%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
-  </div>
 </div>
 
 <!--
