@@ -25,11 +25,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/a1ece18ebb6a13ac8c2e0dc993e2caed" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Other          🕓 4h39m █████████████████████    87.7%
-Java           🕓 19m   █▍                        6.2%
-C++            🕓 8m    ▋                         2.7%
-XML            🕓 4m    ▎                         1.3%
-Groovy         🕓 2m    ▏                         0.7%
+Other          🕓 9h35m █████████████████████▍   89.3%
+Java           🕓 34m   █▎                        5.4%
+Groovy         🕓 16m   ▌                         2.5%
+C++            🕓 8m    ▎                         1.4%
+XML            🕓 4m    ▏                         0.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
