@@ -1,20 +1,23 @@
-## Hi, there.  I'm tou👋
+### Hi, there.  I'm tou👋
 <!--
 [//]: # (![tou's git hub stats](https://github-readme-stats.vercel.app/api?username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&hide_title=true&include_all_commits=true))
 [//]: # ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toulzx&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
 -->
+<!--
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <div>
-<a href="https://github.com/toulzx">
-  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&include_all_commits=true" />
-  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact" />
-</a>
+<img height="150em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&include_all_commits=true&custom_title=tou's%20GitHub%20Stats&hide_title=true" />
+</div>
+<div>
+<img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact&langs_count=6" />
+<img height="168em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tou&layout=compact&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&langs_count=6&range=last_7_days&custom_title=Recent%20Week%20Programming%20Times%20">
 </div>
 
-
 <!--
-[^_^]: # - :orange_book: Focusing on Vue & Android recently
-[^_^]: # - :hammer: Creator of applications and frameworks
+- :orange_book: Focusing on Vue & Android recently
+- :hammer: Creator of applications and frameworks
 -->
 
 
@@ -23,15 +26,6 @@
 <td valign="top" width="50%">
   
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/a1ece18ebb6a13ac8c2e0dc993e2caed" target="_blank">📊 Weekly development breakdown</a>
-```text
-Other          🕓 9h35m ████████████████▎        68.0%
-Java           🕓 1h49m ███                      12.9%
-JSON           🕓 58m   █▋                        6.9%
-C++            🕓 22m   ▋                         2.6%
-Markdown       🕓 22m   ▋                         2.6%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
  
 </td>
