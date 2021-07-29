@@ -8,7 +8,8 @@
 -->
 
 <div>
-<img height="150em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&include_all_commits=true&custom_title=tou's%20GitHub%20Stats&hide_title=true" />
+<img height="150em"/>
+<img height="150em" align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&include_all_commits=true&custom_title=tou's%20GitHub%20Stats&hide_title=true" />
 </div>
 <div>
 <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact&langs_count=6" />
