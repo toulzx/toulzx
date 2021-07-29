@@ -8,8 +8,7 @@
 -->
 
 <div>
-<img height="150em"/>
-<img height="150em" align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&include_all_commits=true&custom_title=tou's%20GitHub%20Stats&hide_title=true" />
+<img height="150em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&include_all_commits=true&custom_title=tou's%20GitHub%20Stats&hide_title=true" />
 </div>
 <div>
 <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact&langs_count=6" />
@@ -38,6 +37,7 @@
 更新日志
 - 20210724 readme-stats 的实现
 - 20210726 waka-box-go 的实现
+- 20210729 waka-card bad-apple-bg-stats 的实现
 -->
 
 <!--
@@ -45,4 +45,6 @@
 - 不可为 waka-box 套用 <div> 标签，Markdown 格式语法不会在块级 HTML 标签内进行处理。
 - emmm其实也可以的（至少在GitHub），只要在块级标签内前后留有空行。
 - 特别注意：在 markdown 中使用标签不要有缩进，标签前有 markdown 语法的情况下进行缩进，默认是以 markdown 格式处理的。
+
+20210729 隐藏和暂停 waka-box
 -->
