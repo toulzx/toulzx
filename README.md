@@ -11,8 +11,8 @@
 <img height="150em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&include_all_commits=true&custom_title=tou's%20GitHub%20Stats&hide_title=true" />
 </div>
 <div>
-<img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact&langs_count=6" />
-<img height="167em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tou&layout=compact&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&langs_count=6&range=last_7_days&custom_title=Recent%20Week%20Programming%20Times%20">
+<img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact&langs_count=6" />
+<img height="166em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tou&layout=compact&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&langs_count=6&range=last_7_days&custom_title=Recent%20Week%20Programming%20Times%20">
 </div>
 
 <!--
