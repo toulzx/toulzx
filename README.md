@@ -1,5 +1,5 @@
 <h3> Hi, there.  I'm tou👋 </h3>
-<img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/toulzx/interval:today&style=flat&logo=aerlingus&color=failure&label=today" />
+<img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/toulzx/interval:yesterday&style=flat&logo=aerlingus&color=failure&label=yesterday" />
 <!--
 [//]: # (![tou's git hub stats](https://github-readme-stats.vercel.app/api?username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&hide_title=true&include_all_commits=true))
 [//]: # ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toulzx&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
