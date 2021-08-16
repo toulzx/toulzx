@@ -16,7 +16,7 @@
 <div>
 <a href="https://github.com/toulzx">
 <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact&langs_count=6" />
-<img height="166em" src="https://github-readme-stats.vercel.app/api/wakatime?username=toulzx&api_domain=wakapi.dev&layout=compact&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&langs_count=6&range=last_7_days&custom_title=Recent%20Week's%20Programming%20Times%20" />
+<img height="166em" src="https://github-readme-stats.vercel.app/api/wakatime?username=toulzx&layout=compact&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&langs_count=6&range=last_7_days&custom_title=Recent%20Week's%20Programming%20Times%20" />
 </a>
 </div>
 
