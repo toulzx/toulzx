@@ -13,12 +13,14 @@
 <img height="150em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=toulzx&count_private=true&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&include_all_commits=true&custom_title=tou's%20GitHub%20Stats&hide_title=true" />
 </a>
 </div>
+<!--
 <div>
 <a href="https://github.com/toulzx">
 <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=fffff&layout=compact&langs_count=6" />
 <img height="166em" src="https://github-readme-stats.vercel.app/api/wakatime?username=toulzx&api_domain=wakapi.dev&layout=compact&show_icons=true&icon_color=d8a499&title_color=7294d4&text_color=718096&bg_color=ffffff&langs_count=6&range=last_7_days&custom_title=Recent%20Week's%20Programming%20Times%20" />
 </a>
 </div>
+-->
 
 <!--
 - :orange_book: Focusing on Vue & Android recently
@@ -38,11 +40,13 @@
 </table>
 -->
 
+
 <!--
 更新日志
 - 20210724 readme-stats 的实现
 - 20210726 waka-box-go 的实现
 - 20210729 waka-card bad-apple-bg-stats 的实现
+- 20211220 仅留下 bad-apple-bg-stats
 -->
 
 <!--
